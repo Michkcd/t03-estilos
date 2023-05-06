@@ -1,0 +1,25 @@
+#zona-encabezado {
+    width: 100%;
+    
+    background-color: #9a72ce;
+   justify-content: CENTER;
+}
+
+#zona-imagenes {
+    width: 100%;
+    background-color: #7cc4d6;
+    text-align: center;
+}
+
+#zona-cuerpo {
+    width: 100%;
+    background-color: #86d186;
+}
+
+#zona-final {
+    font-family: Verdana, Geneva, Tahoma, sans- serif;
+    font-size: 10pt;
+    font-weight: bold;
+    width: 100%;
+    background: #b997cf;
+}
